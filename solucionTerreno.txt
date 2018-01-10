@@ -1,0 +1,51 @@
+A
+TOTAL PROFUNDIDAD: 7 TOTAL COSTE: 15.0
+TERRENO INICIO
+Estado: 1 2 1 4 3 3
+2 4 0 
+0 0 3 
+0 0 0 
+F: 0.0 Profundidad: 0 Cost: 0.0
+
+Accion: ((1,1), [(1,(0,2)),(0,(1,1)),(1,(2,2)),],3)
+Estado: 1 1 1 4 3 3
+2 4 1 
+0 0 1 
+0 0 1 
+F: 9.0 Profundidad: 1 Cost: 3.0
+
+Accion: ((0,1), [(0,(0,1)),(0,(1,0)),(0,(1,2)),(0,(2,1)),],1)
+Estado: 0 1 1 4 3 3
+2 4 1 
+0 0 1 
+0 0 1 
+F: 10.0 Profundidad: 2 Cost: 4.0
+
+Accion: ((0,0), [(1,(0,0)),(0,(0,2)),(2,(1,1)),],4)
+Estado: 0 0 1 4 3 3
+3 1 1 
+0 2 1 
+0 0 1 
+F: 13.0 Profundidad: 3 Cost: 8.0
+
+Accion: ((1,0), [(0,(0,1)),(2,(1,0)),],3)
+Estado: 1 0 1 4 3 3
+1 1 1 
+2 2 1 
+0 0 1 
+F: 15.0 Profundidad: 4 Cost: 11.0
+
+Accion: ((1,1), [(0,(0,0)),(0,(1,1)),(1,(2,0)),],2)
+Estado: 1 1 1 4 3 3
+1 1 1 
+1 2 1 
+1 0 1 
+F: 15.0 Profundidad: 5 Cost: 13.0
+
+Accion: ((0,1), [(0,(0,1)),(0,(1,0)),(0,(1,2)),(1,(2,1)),],2)
+Estado: 0 1 1 4 3 3
+1 1 1 
+1 1 1 
+1 1 1 
+F: 15.0 Profundidad: 6 Cost: 15.0
+
